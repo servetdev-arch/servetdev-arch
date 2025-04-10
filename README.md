@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋 I'm Servet
 
-<!--
-**servetdev-arch/servetdev-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a backend-focused developer aiming to build scalable and real-world applications.
 
-Here are some ideas to get you started:
+🧠 Currently working on:
+- 🔹 Advanced Java Concepts (Streams, Lambdas, Optionals)
+- 🔹 Spring Boot REST APIs
+- 🔹 PostgreSQL for robust data handling
+- 🔹 React for dynamic front-end interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Learning Goals:
+- Build full-stack applications (Spring Boot + React)
+- Improve problem-solving with clean code principles
+- Collaborate on open-source projects
+
+📁 My GitHub will soon include:
+- 🛠 Mini-projects for learning (e.g. User Management System)
+- 📊 Real-world backend APIs with database integration
+- 🎯 Java challenges and design patterns
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/servet-linkini-buraya-ekle)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
