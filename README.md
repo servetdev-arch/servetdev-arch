@@ -19,7 +19,7 @@
 - 🎯 Java challenges and design patterns
 
 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/servet-yilmazzz)
+- [LinkedIn](https://www.linkedin.com/in/servet-yilmazzz/)
 
 ---
 
