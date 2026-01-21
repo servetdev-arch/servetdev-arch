@@ -8,6 +8,7 @@
 - 🔹 PostgreSQL for robust data handling
 - 🔹 React for dynamic front-end interfaces
 
+
 🚀 Learning Goals: 
 - Build full-stack applications (Spring Boot + React)
 - Improve problem-solving with clean code principles
